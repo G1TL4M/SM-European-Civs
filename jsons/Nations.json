@@ -36,5 +36,44 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	},
+
+	{
+		"name": "Zurich",
+		"adjective": ["Zuricher"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [172, 172, 172],
+		"cities": ["Zurich"]
+		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
+	},
+	{
+		"name": "Belgrade",
+		"adjective": ["Belgradian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Let's have a nice little War, shall we?",
+		"attacked": "If you need your nose bloodied, we'll happily serve.",
+		"defeated": "The serbian guerilla will never stop haunting you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [121, 226, 0],
+		"cities": ["Belgrade"]
+		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
+	},
+	{
+		"name": "Geneva",
+		"adjective": ["Genevan", "Genevese"],
+		"cityStateType": "Religious", // Changed from Cultured to Religious in GK
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 97, 242],
+		"cities": ["Geneva"]
+		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 ]
