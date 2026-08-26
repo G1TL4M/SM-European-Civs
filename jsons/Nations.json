@@ -120,7 +120,7 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [8,28,120],
+		"outerColor": [128,8,28],
 		"innerColor": [34,145,78],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Tromso","Alta","Kiruna","Vadso","Harstad",
