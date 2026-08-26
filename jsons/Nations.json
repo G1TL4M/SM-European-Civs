@@ -190,43 +190,28 @@
 			"Schaffhausen","Chur","Vernier","Uster","Sion"]
 	},
 	{
-		"name": "The Yamnaya",
-		"leaderName": "Zyxxyz",
-		"adjective": ["yamnaya"],
+		"name": "Yamnaya", // YACM, changed the uniques
+		"leaderName": "Dyḗus Phtḗr",
+		"adjective": ["Yamnaya"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Steppe Genesis",
-		"uniques": ["[+150]% [Horses] resource production","[+1] Movement <for [Mounted] units>"],
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+		"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [43, 20, 16],
+		"innerColor": [255, 68, 36],
+		"uniqueName": "Kurgan Genesis",
+		"uniques": ["Starts with [The Wheel]","[+150]% [Horses] resource production","[+1] Movement <for [Mounted] units>"],
+		"cities": ["Samara","Sredniy Stog","Storozhova Mohyla","Mergeleva","Sintashta",
+			"Lebyanzhinka","Arkaim","Poltavka","Ustaovo","Deriivka"],
 	},
 	{
 		"name": "Ukraine", // Modern Civilizations, except for the uniques
