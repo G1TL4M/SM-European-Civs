@@ -3,7 +3,7 @@
 		"name": "Gaul",
 		"leaderName": "Zyxxyz",
 		"adjective": ["gaul"],
-		"startBias": ["Snow"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -41,7 +41,7 @@
 		"name": "Poland",
 		"leaderName": "Zyxxyz",
 		"adjective": ["polish"],
-		"startBias": ["Snow"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -76,7 +76,7 @@
 		"name": "Portugal",
 		"leaderName": "Zyxxyz",
 		"adjective": ["portuguese"],
-		"startBias": ["Snow"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -105,7 +105,42 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Lisbon","Porto","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["Lisbon","Porto"]
+	},
+	{
+		"name": "Sapmi",
+		"leaderName": "Zyxxyz",
+		"adjective": ["sami"],
+		"startBias": ["Tundra","Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"denounced": "The accusations of primitive lifeforms are beneath us.",
+		"declaringfriendship": "Let us become like friends!",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
@@ -114,7 +149,6 @@
 		"name": "Serbia",
 		"leaderName": "Zyxxyz",
 		"adjective": ["serbian"],
-		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -152,7 +186,7 @@
 		"name": "Switzerland",
 		"leaderName": "Zyxxyz",
 		"adjective": ["swiss"],
-		"startBias": ["Snow"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -187,7 +221,7 @@
 		"name": "The Yamnaya",
 		"leaderName": "Zyxxyz",
 		"adjective": ["yamnaya"],
-		"startBias": ["Snow"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -215,7 +249,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Steppe Genesis",
+		"uniques": ["[+150]% [Horses] resource production","[+1] Movement <for [Mounted] units>"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -225,7 +260,7 @@
 		"name": "Ukraine",
 		"leaderName": "Zyxxyz",
 		"adjective": ["ukranian"],
-		"startBias": ["Snow"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -253,7 +288,8 @@
 
 		"outerColor": [0,10,250],
 		"innerColor": [250,248,17],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Breadbasket Of Europe",
+		"uniques": ["[+1 Food] from [Farm] tiles [in all cities]","[+1 Food] from [Wheat] tiles [in all cities]"],
 		"cities": ["Kyiv","Lviv","Odessa","Donetsk","Luhansk","Chernobyl"]
 	},
 
